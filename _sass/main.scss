@@ -49,9 +49,6 @@ $on-desktop: 1024px;
 $on-widescreen: 1152px;
 
 // Img Configs
-img {
-	width: 100%;
-}
 
 
 @mixin media-query($device) {
